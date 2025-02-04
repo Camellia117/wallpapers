@@ -37,7 +37,3 @@
 ![18.png](18.png)
 19.png  
 ![19.png](19.png)
-20.png  
-![20.png](20.png)
-21.png  
-![21.png](21.png)
